@@ -1,0 +1,33 @@
+Quick Sort:
+5000  numbers
+The time it took to process was : 2ms
+Number of comparisons was: 33704
+Number of loops was: 102303
+Number of shifts was: 105772
+
+Insertion Sort:
+5000 numbers
+The time it took to process was : 21ms
+Number of comparisons was: 0
+Number of loops was: 6255406
+Number of shifts was: 6255406
+
+Selection Sort:
+5000 numbers
+The time it took to process was : 133ms
+Number of comparisons was: 12497500
+Number of loops was: 12502499
+Number of shifts was: 6195088
+
+
+Bubble Sort:
+5000 numbers
+The time it took to process was : 143ms
+Number of comparisons was: 24990001
+Number of loops was: 24995000
+Number of shifts was: 6158988
+
+
+Therefore Quick sort was definitly the most efficient going by time.
+
+
